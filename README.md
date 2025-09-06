@@ -6,7 +6,23 @@ We transform **GitHub repositories and open-source applications** into tailored,
 
 We work across all major operating systems — **Ubuntu, Debian, CentOS, Fedora, Alpine, Arch, SUSE, Red Hat, Windows (including WSL), and macOS** — ensuring your customized open-source project runs reliably on your target environment. We also support **cloud platforms** like AWS, GCP, Azure, DigitalOcean, and containerized deployments with Docker and Kubernetes.  
 
-📩 **Quick Contact:** [Telegram](https://t.me/goodthebest) · [Email](mailto:onlinebuybiz@gmail.com) · Discord: `goodthebest`  
+📩 **Quick Contact:** [Telegram](https://t.me/goodthebest) · [Email](mailto:onlinebuybiz@gmail.com) · Discord: `goodthebest`
+
+---
+
+## 🧩 Technology Matrix (Quick Overview)
+
+| Category            | Examples |
+|---------------------|----------|
+| **Operating Systems** | Ubuntu, Debian, CentOS, Fedora, Arch, Alpine, SUSE, Red Hat, Windows (WSL), macOS |
+| **Cloud Platforms** | AWS, GCP, Azure, DigitalOcean |
+| **Hosting Panels**  | cPanel, WHM, Plesk, DirectAdmin |
+| **Databases**       | MySQL, MariaDB, PostgreSQL, MongoDB, Redis |
+| **DNS & Email**     | Cloudflare, GoDaddy, Namecheap, Bluehost, HostGator, SiteGround, Mailgun, SendGrid |
+| **Frameworks**      | Laravel, Yii, Django, Flask, React, Vue, Angular, Node.js, Strapi |
+
+---
+
 
 ---
 
