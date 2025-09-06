@@ -13,45 +13,45 @@ We work across all major operating systems — **Ubuntu, Debian, CentOS, Fedora,
 <a id="table-of-contents"></a>
 <a id="table-of-contents"></a>
 <a id="table-of-contents"></a>
-<a id="table-of-contents"></a>
-## 📑 Table of Contents
+<a id="1-table-of-contents"></a>
+## 1. 📑 Table of Contents
 
-- 1. [📑 Table of Contents](#table-of-contents)
-- 2. [🧩 Technology Matrix (Quick Overview)](#technology-matrix-quick-overview)
-  - 2.1. [🏷️ Compliance & Security Badges](#compliance-security-badges)
-- 3. [🔗 GitHub & Open Source Application Expertise](#github-open-source-application-expertise)
-- 4. [👥 Who We Help](#who-we-help)
-- 5. [⚙️ How We Work](#how-we-work)
-- 6. [📡 Mid-Project Support](#mid-project-support)
-- 7. [🎯 What We Deliver](#what-we-deliver)
-  - 7.1. [🛡️ Enterprise-Grade Security & Compliance](#enterprise-grade-security-compliance)
-- 8. [🖥️ Supported Operating Systems, Cloud Platforms, Hosting & Domains](#supported-operating-systems-cloud-platforms-hosting-domains)
-- 9. [🛠️ High-Demand Platforms We Customize](#high-demand-platforms-we-customize)
-  - 9.1. [ERP Systems (Odoo, ERPNext)](#erp-systems-odoo-erpnext)
-  - 9.2. [CRM Platforms (SuiteCRM, vTiger, Odoo CRM)](#crm-platforms-suitecrm-vtiger-odoo-crm)
-  - 9.3. [Analytics Dashboards (Metabase, Superset, Grafana)](#analytics-dashboards-metabase-superset-grafana)
-  - 9.4. [DevOps Tools (Jenkins, GitLab CI/CD)](#devops-tools-jenkins-gitlab-cicd)
-  - 9.5. [Content Management (WordPress, Strapi, Drupal)](#content-management-wordpress-strapi-drupal)
-  - 9.6. [SaaS Frameworks & Boilerplates (Laravel Wave, Jumpstart Pro)](#saas-frameworks-boilerplates-laravel-wave-jumpstart-pro)
-- 10. [🌐 Example Engagements](#example-engagements)
-- 11. [🏗️ Infrastructure & Operations](#infrastructure-operations)
-  - 11.1. [Hosting Panels & Server Management (cPanel, WHM, Plesk, DirectAdmin)](#hosting-panels-server-management-cpanel-whm-plesk-directadmin)
-  - 11.2. [Databases (MySQL, MariaDB, PostgreSQL, MongoDB, Redis)](#databases-mysql-mariadb-postgresql-mongodb-redis)
-  - 11.3. [DNS, Email & Domain Management (GoDaddy, Namecheap, Bluehost, Cloudflare)](#dns-email-domain-management-godaddy-namecheap-bluehost-cloudflare)
-- 12. [❓ Frequently Asked Questions](#frequently-asked-questions)
-  - 12.1. [🟢 General Services](#general-services)
-  - 12.2. [🟣 GitHub & Open Source Customization](#github-open-source-customization)
-  - 12.3. [🔵 Technical & Infrastructure Support](#technical-infrastructure-support)
-  - 12.4. [🛡️ Security & Compliance](#security-compliance)
-  - 12.5. [🟠 Business & Ongoing Support](#business-ongoing-support)
-- 13. [🚀 Get Started](#get-started)
+- [📑 Table of Contents](#table-of-contents)
+- [🧩 Technology Matrix (Quick Overview)](#technology-matrix-quick-overview)
+  - [🏷️ Compliance & Security Badges](#compliance-security-badges)
+- [🔗 GitHub & Open Source Application Expertise](#github-open-source-application-expertise)
+- [👥 Who We Help](#who-we-help)
+- [⚙️ How We Work](#how-we-work)
+- [📡 Mid-Project Support](#mid-project-support)
+- [🎯 What We Deliver](#what-we-deliver)
+  - [🛡️ Enterprise-Grade Security & Compliance](#enterprise-grade-security-compliance)
+- [🖥️ Supported Operating Systems, Cloud Platforms, Hosting & Domains](#supported-operating-systems-cloud-platforms-hosting-domains)
+- [🛠️ High-Demand Platforms We Customize](#high-demand-platforms-we-customize)
+  - [ERP Systems (Odoo, ERPNext)](#erp-systems-odoo-erpnext)
+  - [CRM Platforms (SuiteCRM, vTiger, Odoo CRM)](#crm-platforms-suitecrm-vtiger-odoo-crm)
+  - [Analytics Dashboards (Metabase, Superset, Grafana)](#analytics-dashboards-metabase-superset-grafana)
+  - [DevOps Tools (Jenkins, GitLab CI/CD)](#devops-tools-jenkins-gitlab-cicd)
+  - [Content Management (WordPress, Strapi, Drupal)](#content-management-wordpress-strapi-drupal)
+  - [SaaS Frameworks & Boilerplates (Laravel Wave, Jumpstart Pro)](#saas-frameworks-boilerplates-laravel-wave-jumpstart-pro)
+- [🌐 Example Engagements](#example-engagements)
+- [🏗️ Infrastructure & Operations](#infrastructure-operations)
+  - [Hosting Panels & Server Management (cPanel, WHM, Plesk, DirectAdmin)](#hosting-panels-server-management-cpanel-whm-plesk-directadmin)
+  - [Databases (MySQL, MariaDB, PostgreSQL, MongoDB, Redis)](#databases-mysql-mariadb-postgresql-mongodb-redis)
+  - [DNS, Email & Domain Management (GoDaddy, Namecheap, Bluehost, Cloudflare)](#dns-email-domain-management-godaddy-namecheap-bluehost-cloudflare)
+- [❓ Frequently Asked Questions](#frequently-asked-questions)
+  - [🟢 General Services](#general-services)
+  - [🟣 GitHub & Open Source Customization](#github-open-source-customization)
+  - [🔵 Technical & Infrastructure Support](#technical-infrastructure-support)
+  - [🛡️ Security & Compliance](#security-compliance)
+  - [🟠 Business & Ongoing Support](#business-ongoing-support)
+- [🚀 Get Started](#get-started)
 
 ---
 <a id="technology-matrix-quick-overview"></a>
 <a id="technology-matrix-quick-overview"></a>
 <a id="technology-matrix-quick-overview"></a>
-<a id="technology-matrix-quick-overview"></a>
-## 🧩 Technology Matrix (Quick Overview)
+<a id="2-technology-matrix-quick-overview"></a>
+## 2. 🧩 Technology Matrix (Quick Overview)
 
 | Category            | Examples |
 |---------------------|----------|
@@ -68,8 +68,8 @@ We work across all major operating systems — **Ubuntu, Debian, CentOS, Fedora,
 <a id="compliance-security-badges"></a>
 <a id="compliance-security-badges"></a>
 <a id="compliance-security-badges"></a>
-<a id="compliance-security-badges"></a>
-### 🏷️ Compliance & Security Badges  
+<a id="21-compliance-security-badges"></a>
+### 2.1. 🏷️ Compliance & Security Badges
 
 ![GDPR](https://img.shields.io/badge/Compliance-GDPR-blue) 
 ![HIPAA](https://img.shields.io/badge/Compliance-HIPAA-green) 
@@ -81,8 +81,8 @@ We work across all major operating systems — **Ubuntu, Debian, CentOS, Fedora,
 <a id="github-open-source-application-expertise"></a>
 <a id="github-open-source-application-expertise"></a>
 <a id="github-open-source-application-expertise"></a>
-<a id="github-open-source-application-expertise"></a>
-## 🔗 GitHub & Open Source Application Expertise
+<a id="3-github-open-source-application-expertise"></a>
+## 3. 🔗 GitHub & Open Source Application Expertise
 
 Most open-source software today lives on **GitHub**.  
 We specialize in taking **GitHub repositories**—whether community-driven or private—and customizing them to fit your business needs.
@@ -101,8 +101,8 @@ We specialize in taking **GitHub repositories**—whether community-driven or pr
 <a id="who-we-help"></a>
 <a id="who-we-help"></a>
 <a id="who-we-help"></a>
-<a id="who-we-help"></a>
-## 👥 Who We Help  
+<a id="4-who-we-help"></a>
+## 4. 👥 Who We Help
 
 - **Individuals** → Launch personal projects, portfolios, or niche apps by customizing GitHub repos or lightweight OSS tools. Perfect for developers, freelancers, or hobbyists who want polished results without reinventing the wheel.  
 - **Entrepreneurs & Small Businesses** → Build MVPs, SaaS apps, and e-commerce platforms quickly by adapting open-source frameworks instead of starting from scratch. Ideal for limited budgets with maximum flexibility.  
@@ -115,8 +115,8 @@ We specialize in taking **GitHub repositories**—whether community-driven or pr
 <a id="how-we-work"></a>
 <a id="how-we-work"></a>
 <a id="how-we-work"></a>
-<a id="how-we-work"></a>
-## ⚙️ How We Work  
+<a id="5-how-we-work"></a>
+## 5. ⚙️ How We Work
 
 1. **Consultation** → Share your repo and goals.  
 2. **Assessment** → We review code, workflows, and dependencies.  
@@ -128,8 +128,8 @@ We specialize in taking **GitHub repositories**—whether community-driven or pr
 <a id="mid-project-support"></a>
 <a id="mid-project-support"></a>
 <a id="mid-project-support"></a>
-<a id="mid-project-support"></a>
-## 📡 Mid-Project Support  
+<a id="6-mid-project-support"></a>
+## 6. 📡 Mid-Project Support
 
 Collaboration matters. Whether you’re **just exploring** or **mid-project**, talk to us:  
 
@@ -142,8 +142,8 @@ Collaboration matters. Whether you’re **just exploring** or **mid-project**, t
 <a id="what-we-deliver"></a>
 <a id="what-we-deliver"></a>
 <a id="what-we-deliver"></a>
-<a id="what-we-deliver"></a>
-## 🎯 What We Deliver  
+<a id="7-what-we-deliver"></a>
+## 7. 🎯 What We Deliver
 
 - **New Features & APIs** → payment gateways, IoT connectors, third-party integrations.  
 - **UI/UX Enhancements** → dashboards, white-label branding, responsive design.  
@@ -159,8 +159,8 @@ Collaboration matters. Whether you’re **just exploring** or **mid-project**, t
 <a id="enterprise-grade-security-compliance"></a>
 <a id="enterprise-grade-security-compliance"></a>
 <a id="enterprise-grade-security-compliance"></a>
-<a id="enterprise-grade-security-compliance"></a>
-### 🛡️ Enterprise-Grade Security & Compliance
+<a id="71-enterprise-grade-security-compliance"></a>
+### 7.1. 🛡️ Enterprise-Grade Security & Compliance
 
 We align your open-source deployments with **enterprise security frameworks** and **regulatory requirements**:
 
@@ -181,8 +181,8 @@ We align your open-source deployments with **enterprise security frameworks** an
 <a id="supported-operating-systems-cloud-platforms-hosting-domains"></a>
 <a id="supported-operating-systems-cloud-platforms-hosting-domains"></a>
 <a id="supported-operating-systems-cloud-platforms-hosting-domains"></a>
-<a id="supported-operating-systems-cloud-platforms-hosting-domains"></a>
-## 🖥️ Supported Operating Systems, Cloud Platforms, Hosting & Domains  
+<a id="8-supported-operating-systems-cloud-platforms-hosting-domains"></a>
+## 8. 🖥️ Supported Operating Systems, Cloud Platforms, Hosting & Domains
 
 Our customization services cover diverse environments, so your open source project can run wherever you need it:  
 
@@ -202,54 +202,54 @@ Our customization services cover diverse environments, so your open source proje
 <a id="high-demand-platforms-we-customize"></a>
 <a id="high-demand-platforms-we-customize"></a>
 <a id="high-demand-platforms-we-customize"></a>
-<a id="high-demand-platforms-we-customize"></a>
-## 🛠️ High-Demand Platforms We Customize  
+<a id="9-high-demand-platforms-we-customize"></a>
+## 9. 🛠️ High-Demand Platforms We Customize
 
 <a id="erp-systems-odoo-erpnext"></a>
 <a id="erp-systems-odoo-erpnext"></a>
 <a id="erp-systems-odoo-erpnext"></a>
-<a id="erp-systems-odoo-erpnext"></a>
-### ERP Systems (Odoo, ERPNext)  
+<a id="91-erp-systems-odoo-erpnext"></a>
+### 9.1. ERP Systems (Odoo, ERPNext)
 - Custom modules, workflows, and dashboards.  
 - Example: Integrated Odoo POS with regional payment APIs, cutting ops costs 30%.  
 
 <a id="crm-platforms-suitecrm-vtiger-odoo-crm"></a>
 <a id="crm-platforms-suitecrm-vtiger-odoo-crm"></a>
 <a id="crm-platforms-suitecrm-vtiger-odoo-crm"></a>
-<a id="crm-platforms-suitecrm-vtiger-odoo-crm"></a>
-### CRM Platforms (SuiteCRM, vTiger, Odoo CRM)  
+<a id="92-crm-platforms-suitecrm-vtiger-odoo-crm"></a>
+### 9.2. CRM Platforms (SuiteCRM, vTiger, Odoo CRM)
 - Add fields, workflows, dashboards, and role-based automations.  
 - Example: SuiteCRM email alerts on lead qualification improved conversions.  
 
 <a id="analytics-dashboards-metabase-superset-grafana"></a>
 <a id="analytics-dashboards-metabase-superset-grafana"></a>
 <a id="analytics-dashboards-metabase-superset-grafana"></a>
-<a id="analytics-dashboards-metabase-superset-grafana"></a>
-### Analytics Dashboards (Metabase, Superset, Grafana)  
+<a id="93-analytics-dashboards-metabase-superset-grafana"></a>
+### 9.3. Analytics Dashboards (Metabase, Superset, Grafana)
 - White-label KPIs, secure SSO, and row-level access control.  
 - Example: Embedded Metabase inside SaaS app for tenant-specific data views.  
 
 <a id="devops-tools-jenkins-gitlab-cicd"></a>
 <a id="devops-tools-jenkins-gitlab-cicd"></a>
 <a id="devops-tools-jenkins-gitlab-cicd"></a>
-<a id="devops-tools-jenkins-gitlab-cicd"></a>
-### DevOps Tools (Jenkins, GitLab CI/CD)  
+<a id="94-devops-tools-jenkins-gitlab-cicd"></a>
+### 9.4. DevOps Tools (Jenkins, GitLab CI/CD)
 - Custom pipelines, runners, notifications, compliance workflows.  
 - Example: Jenkins pipelines with audit-ready compliance logs for fintech.  
 
 <a id="content-management-wordpress-strapi-drupal"></a>
 <a id="content-management-wordpress-strapi-drupal"></a>
 <a id="content-management-wordpress-strapi-drupal"></a>
-<a id="content-management-wordpress-strapi-drupal"></a>
-### Content Management (WordPress, Strapi, Drupal)  
+<a id="95-content-management-wordpress-strapi-drupal"></a>
+### 9.5. Content Management (WordPress, Strapi, Drupal)
 - Plugins, themes, headless APIs, editorial workflows.  
 - Example: Strapi extended with custom endpoints + admin plugins for media.  
 
 <a id="saas-frameworks-boilerplates-laravel-wave-jumpstart-pro"></a>
 <a id="saas-frameworks-boilerplates-laravel-wave-jumpstart-pro"></a>
 <a id="saas-frameworks-boilerplates-laravel-wave-jumpstart-pro"></a>
-<a id="saas-frameworks-boilerplates-laravel-wave-jumpstart-pro"></a>
-### SaaS Frameworks & Boilerplates (Laravel Wave, Jumpstart Pro)  
+<a id="96-saas-frameworks-boilerplates-laravel-wave-jumpstart-pro"></a>
+### 9.6. SaaS Frameworks & Boilerplates (Laravel Wave, Jumpstart Pro)
 - Multi-tenancy, billing logic, feature toggles, and custom UI.  
 - Example: Laravel Wave adapted with tiered subscription and SSO.  
 
@@ -258,8 +258,8 @@ Our customization services cover diverse environments, so your open source proje
 <a id="example-engagements"></a>
 <a id="example-engagements"></a>
 <a id="example-engagements"></a>
-<a id="example-engagements"></a>
-## 🌐 Example Engagements  
+<a id="10-example-engagements"></a>
+## 10. 🌐 Example Engagements
 
 - Built **Odoo ERP** modules for IoT-enabled production scheduling.  
 - Embedded **Metabase dashboards** in a SaaS with SSO + white-label styling.  
@@ -273,14 +273,14 @@ Our customization services cover diverse environments, so your open source proje
 
 <a id="infrastructure-operations"></a>
 <a id="infrastructure-operations"></a>
-<a id="infrastructure-operations"></a>
-## 🏗️ Infrastructure & Operations
+<a id="11-infrastructure-operations"></a>
+## 11. 🏗️ Infrastructure & Operations
 
 <a id="hosting-panels-server-management-cpanel-whm-plesk-directadmin"></a>
 <a id="hosting-panels-server-management-cpanel-whm-plesk-directadmin"></a>
 <a id="hosting-panels-server-management-cpanel-whm-plesk-directadmin"></a>
-<a id="hosting-panels-server-management-cpanel-whm-plesk-directadmin"></a>
-### Hosting Panels & Server Management (cPanel, WHM, Plesk, DirectAdmin)  
+<a id="111-hosting-panels-server-management-cpanel-whm-plesk-directadmin"></a>
+### 11.1. Hosting Panels & Server Management (cPanel, WHM, Plesk, DirectAdmin)
 - Configure cPanel/WHM for optimized open-source app hosting.  
 - Automate deployments of GitHub repos to cPanel with CI/CD pipelines.  
 - Customize DNS, SSL, email servers, and backup workflows.  
@@ -292,8 +292,8 @@ Our customization services cover diverse environments, so your open source proje
 <a id="databases-mysql-mariadb-postgresql-mongodb-redis"></a>
 <a id="databases-mysql-mariadb-postgresql-mongodb-redis"></a>
 <a id="databases-mysql-mariadb-postgresql-mongodb-redis"></a>
-<a id="databases-mysql-mariadb-postgresql-mongodb-redis"></a>
-### Databases (MySQL, MariaDB, PostgreSQL, MongoDB, Redis)  
+<a id="112-databases-mysql-mariadb-postgresql-mongodb-redis"></a>
+### 11.2. Databases (MySQL, MariaDB, PostgreSQL, MongoDB, Redis)
 - Schema design, optimization, and migration between DB engines.  
 - Query tuning, indexing, and caching for high-performance apps.  
 - Database replication, clustering, and failover setups.  
@@ -305,8 +305,8 @@ Our customization services cover diverse environments, so your open source proje
 <a id="dns-email-domain-management-godaddy-namecheap-bluehost-cloudflare"></a>
 <a id="dns-email-domain-management-godaddy-namecheap-bluehost-cloudflare"></a>
 <a id="dns-email-domain-management-godaddy-namecheap-bluehost-cloudflare"></a>
-<a id="dns-email-domain-management-godaddy-namecheap-bluehost-cloudflare"></a>
-### DNS, Email & Domain Management (GoDaddy, Namecheap, Bluehost, Cloudflare)  
+<a id="113-dns-email-domain-management-godaddy-namecheap-bluehost-cloudflare"></a>
+### 11.3. DNS, Email & Domain Management (GoDaddy, Namecheap, Bluehost, Cloudflare)
 - Configure DNS records for reliable websites and apps.  
 - Set up secure email delivery with SPF, DKIM, and DMARC.  
 - Integrate GitHub deployments with domain/DNS management (e.g., GitHub Pages + custom domain).  
@@ -317,14 +317,14 @@ Our customization services cover diverse environments, so your open source proje
 <a id="frequently-asked-questions"></a>
 <a id="frequently-asked-questions"></a>
 <a id="frequently-asked-questions"></a>
-<a id="frequently-asked-questions"></a>
-## ❓ Frequently Asked Questions  
+<a id="12-frequently-asked-questions"></a>
+## 12. ❓ Frequently Asked Questions
 
 <a id="general-services"></a>
 <a id="general-services"></a>
 <a id="general-services"></a>
-<a id="general-services"></a>
-### 🟢 General Services  
+<a id="121-general-services"></a>
+### 12.1. 🟢 General Services
 
 **Do you work with private GitHub repositories?**  
 Yes. We handle **private repos** on GitHub, GitLab, Bitbucket, or directly shared archives. NDAs can be signed if required, and we maintain strict confidentiality of your code.  
@@ -340,8 +340,8 @@ Both. We can do **one-time customizations** or provide **ongoing support** for c
 <a id="github-open-source-customization"></a>
 <a id="github-open-source-customization"></a>
 <a id="github-open-source-customization"></a>
-<a id="github-open-source-customization"></a>
-### 🟣 GitHub & Open Source Customization  
+<a id="122-github-open-source-customization"></a>
+### 12.2. 🟣 GitHub & Open Source Customization
 
 **Do you contribute changes back to GitHub projects?**  
 Where beneficial, yes. We create **pull requests and patches** so your forked project stays close to upstream. This minimizes merge conflicts and ensures long-term maintainability.  
@@ -360,8 +360,8 @@ Definitely. We automate **testing, builds, deployments, and notifications**. Exa
 <a id="technical-infrastructure-support"></a>
 <a id="technical-infrastructure-support"></a>
 <a id="technical-infrastructure-support"></a>
-<a id="technical-infrastructure-support"></a>
-### 🔵 Technical & Infrastructure Support  
+<a id="123-technical-infrastructure-support"></a>
+### 12.3. 🔵 Technical & Infrastructure Support
 
 **What operating systems do you support?**  
 We cover all major environments:  
@@ -388,8 +388,8 @@ Yes. We configure build pipelines for projects that must run on **Linux, Windows
 <a id="security-compliance"></a>
 <a id="security-compliance"></a>
 <a id="security-compliance"></a>
-<a id="security-compliance"></a>
-### 🛡️ Security & Compliance  
+<a id="124-security-compliance"></a>
+### 12.4. 🛡️ Security & Compliance
 
 **How do you handle server hardening?**  
 We implement **firewalls, Fail2Ban, Cloudflare WAF**, and enforce strong TLS/SSL practices (HSTS, TLS 1.3).  
@@ -415,8 +415,8 @@ Badges indicate **alignment and support** with these frameworks; official certif
 <a id="business-ongoing-support"></a>
 <a id="business-ongoing-support"></a>
 <a id="business-ongoing-support"></a>
-<a id="business-ongoing-support"></a>
-### 🟠 Business & Ongoing Support  
+<a id="125-business-ongoing-support"></a>
+### 12.5. 🟠 Business & Ongoing Support
 
 **Do you support DNS and domain management?**  
 Yes. We configure and manage DNS records (A, MX, TXT, SPF, DKIM, DMARC) for reliability, security, and compliance. We also integrate GitHub-based apps with custom domains.  
@@ -452,8 +452,8 @@ We offer **consulting sessions** to review repos, advise on feasibility, suggest
 <a id="get-started"></a>
 <a id="get-started"></a>
 <a id="get-started"></a>
-<a id="get-started"></a>
-## 🚀 Get Started  
+<a id="13-get-started"></a>
+## 13. 🚀 Get Started
 
 Bring your GitHub repo or OSS project — we’ll deliver a **customized, production-ready solution**.  
 
