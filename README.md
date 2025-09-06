@@ -66,7 +66,7 @@ Collaboration matters. Whether you’re **just exploring** or **mid-project**, t
 
 ---
 
-## 🖥️ Supported Operating Systems & Cloud Platforms  
+## 🖥️ Supported Operating Systems, Cloud Platforms, Hosting & Domains  
 
 Our customization services cover diverse environments, so your open source project can run wherever you need it:  
 
@@ -74,10 +74,13 @@ Our customization services cover diverse environments, so your open source proje
 - **Windows** → Native Windows servers and Windows Subsystem for Linux (WSL).  
 - **macOS** → Development & deployment environments for Apple ecosystems.  
 - **Containers & Cloud** → Docker, Kubernetes, AWS, GCP, Azure, DigitalOcean.  
+- **Hosting Panels** → cPanel, WHM, Plesk, DirectAdmin for shared and dedicated hosting.  
+- **Databases** → MySQL, MariaDB, PostgreSQL, MongoDB, Redis.  
+- **DNS & Domains** → Configure A, MX, TXT, SPF, DKIM, DMARC for security and reliability.  
+- **Email Systems** → Postfix, Exim, Sendmail, plus third-party APIs (SendGrid, Mailgun).  
+- **Domain Registrars & Hosting Providers** → GoDaddy, Namecheap, Bluehost, HostGator, SiteGround, Cloudflare.  
 
-👉 Example: Configured GitLab CI runners on **Ubuntu** for backend builds, **CentOS** for database services, and **Windows WSL** for front-end workflows, all deploying to **AWS** and **GCP** clusters.  
-
----
+👉 Example: Configured GitLab CI runners on **Ubuntu** for backend builds, **CentOS** for database services, and **Windows WSL** for front-end workflows, all deploying to **AWS** and **GCP** clusters with **cPanel hosting and Cloudflare DNS integration**.  
 
 ## 🛠️ High-Demand Platforms We Customize  
 
@@ -175,6 +178,30 @@ Yes. We configure build pipelines for projects that must run on **Linux, Windows
 
 ### 🟠 Business & Support  
 
+**Do you support DNS and domain management?**  
+Yes. We configure and manage DNS records (A, MX, TXT, SPF, DKIM, DMARC) for reliability, security, and compliance. We also integrate GitHub-based apps with custom domains.  
+
+**Can you integrate with popular providers like GoDaddy or Namecheap?**  
+Absolutely. We handle DNS, domains, SSL, and hosting on platforms like **GoDaddy, Namecheap, Bluehost, HostGator, SiteGround, and Cloudflare**.  
+
+### 🟠 Business & Support  
+
+**Do you support cPanel, WHM, or hosting panels like Plesk?**  
+Yes. We configure and customize **cPanel, WHM, Plesk, and DirectAdmin** to deploy GitHub-based open-source applications. We also integrate **WHMCS** for automated billing and SaaS hosting.  
+
+**Do you handle database migrations and optimization?**  
+Yes. We support **MySQL, MariaDB, PostgreSQL, MongoDB, and Redis**. Our services include schema migrations, replication setups, and query optimization for high performance.  
+
+### 🟠 Business & Support  
+
+**Do you support DNS and domain management?**  
+Yes. We configure and manage DNS records (A, MX, TXT, SPF, DKIM, DMARC) for reliability, security, and compliance. We also integrate GitHub-based apps with custom domains.  
+
+**Can you integrate with popular providers like GoDaddy or Namecheap?**  
+Absolutely. We handle DNS, domains, SSL, and hosting on platforms like **GoDaddy, Namecheap, Bluehost, HostGator, SiteGround, and Cloudflare**.  
+
+### 🟠 Business & Support  
+
 **Do you provide long-term maintenance?**  
 Yes — from **bug fixes and patching** to **scaling, monitoring, and upgrades**. We can act as your extended open-source support team.  
 
@@ -209,3 +236,31 @@ Bring your GitHub repo or OSS project — we’ll deliver a **customized, produc
 ---
 
 ✨ **Your GitHub project, customized and optimized — built for your future.**
+
+
+### Hosting Panels & Server Management (cPanel, WHM, Plesk, DirectAdmin)  
+- Configure cPanel/WHM for optimized open-source app hosting.  
+- Automate deployments of GitHub repos to cPanel with CI/CD pipelines.  
+- Customize DNS, SSL, email servers, and backup workflows.  
+- Integrate WHMCS for subscription billing and SaaS hosting management.  
+
+👉 Example: Integrated a GitHub-based CMS into **cPanel shared hosting** with automated SSL and GitHub Actions deployment.  
+👉 Example: Customized **WHMCS** billing for SaaS built on Laravel Wave.  
+
+### Databases (MySQL, MariaDB, PostgreSQL, MongoDB, Redis)  
+- Schema design, optimization, and migration between DB engines.  
+- Query tuning, indexing, and caching for high-performance apps.  
+- Database replication, clustering, and failover setups.  
+- Integrating databases with ERP, CRM, and SaaS frameworks.  
+
+👉 Example: Migrated **MySQL to MariaDB** for a CRM repo, improving performance by 40%.  
+👉 Example: Implemented **PostgreSQL + Redis caching** for analytics dashboards (Superset/Metabase).
+
+### DNS, Email & Domain Management (GoDaddy, Namecheap, Bluehost, Cloudflare)  
+- Configure DNS records for reliable websites and apps.  
+- Set up secure email delivery with SPF, DKIM, and DMARC.  
+- Integrate GitHub deployments with domain/DNS management (e.g., GitHub Pages + custom domain).  
+- Automate SSL via Let’s Encrypt or cPanel.  
+
+👉 Example: Migrated a SaaS app to **Cloudflare DNS** with GitHub Actions deployments, added **Mailgun** for transactional email, and configured domains from **GoDaddy**.  
+  
