@@ -216,6 +216,35 @@ Our customization services cover diverse environments, so your open source proje
 ---
 
 
+<a id="hosting-panels-server-management-cpanel-whm-plesk-directadmin"></a>
+### Hosting Panels & Server Management (cPanel, WHM, Plesk, DirectAdmin)  
+- Configure cPanel/WHM for optimized open-source app hosting.  
+- Automate deployments of GitHub repos to cPanel with CI/CD pipelines.  
+- Customize DNS, SSL, email servers, and backup workflows.  
+- Integrate WHMCS for subscription billing and SaaS hosting management.  
+
+👉 Example: Integrated a GitHub-based CMS into **cPanel shared hosting** with automated SSL and GitHub Actions deployment.  
+👉 Example: Customized **WHMCS** billing for SaaS built on Laravel Wave.
+
+<a id="databases-mysql-mariadb-postgresql-mongodb-redis"></a>
+### Databases (MySQL, MariaDB, PostgreSQL, MongoDB, Redis)  
+- Schema design, optimization, and migration between DB engines.  
+- Query tuning, indexing, and caching for high-performance apps.  
+- Database replication, clustering, and failover setups.  
+- Integrating databases with ERP, CRM, and SaaS frameworks.  
+
+👉 Example: Migrated **MySQL to MariaDB** for a CRM repo, improving performance by 40%.  
+👉 Example: Implemented **PostgreSQL + Redis caching** for analytics dashboards (Superset/Metabase).
+
+<a id="dns-email-domain-management-godaddy-namecheap-bluehost-cloudflare"></a>
+### DNS, Email & Domain Management (GoDaddy, Namecheap, Bluehost, Cloudflare)  
+- Configure DNS records for reliable websites and apps.  
+- Set up secure email delivery with SPF, DKIM, and DMARC.  
+- Integrate GitHub deployments with domain/DNS management (e.g., GitHub Pages + custom domain).  
+- Automate SSL via **Let’s Encrypt**, Certbot, or cPanel AutoSSL.  
+
+👉 Example: Migrated a SaaS app to **Cloudflare DNS** with GitHub Actions deployments, added **Mailgun** for transactional email, and configured domains from **GoDaddy**.
+
 <a id="frequently-asked-questions"></a>
 ## ❓ Frequently Asked Questions  
 
@@ -348,32 +377,5 @@ Bring your GitHub repo or OSS project — we’ll deliver a **customized, produc
 ✨ **Your GitHub project, customized and optimized — built for your future.**
 
 
-<a id="hosting-panels-server-management-cpanel-whm-plesk-directadmin"></a>
-### Hosting Panels & Server Management (cPanel, WHM, Plesk, DirectAdmin)  
-- Configure cPanel/WHM for optimized open-source app hosting.  
-- Automate deployments of GitHub repos to cPanel with CI/CD pipelines.  
-- Customize DNS, SSL, email servers, and backup workflows.  
-- Integrate WHMCS for subscription billing and SaaS hosting management.  
 
-👉 Example: Integrated a GitHub-based CMS into **cPanel shared hosting** with automated SSL and GitHub Actions deployment.  
-👉 Example: Customized **WHMCS** billing for SaaS built on Laravel Wave.  
 
-<a id="databases-mysql-mariadb-postgresql-mongodb-redis"></a>
-### Databases (MySQL, MariaDB, PostgreSQL, MongoDB, Redis)  
-- Schema design, optimization, and migration between DB engines.  
-- Query tuning, indexing, and caching for high-performance apps.  
-- Database replication, clustering, and failover setups.  
-- Integrating databases with ERP, CRM, and SaaS frameworks.  
-
-👉 Example: Migrated **MySQL to MariaDB** for a CRM repo, improving performance by 40%.  
-👉 Example: Implemented **PostgreSQL + Redis caching** for analytics dashboards (Superset/Metabase).
-
-<a id="dns-email-domain-management-godaddy-namecheap-bluehost-cloudflare"></a>
-### DNS, Email & Domain Management (GoDaddy, Namecheap, Bluehost, Cloudflare)  
-- Configure DNS records for reliable websites and apps.  
-- Set up secure email delivery with SPF, DKIM, and DMARC.  
-- Integrate GitHub deployments with domain/DNS management (e.g., GitHub Pages + custom domain).  
-- Automate SSL via **Let’s Encrypt**, Certbot, or cPanel AutoSSL.  
-
-👉 Example: Migrated a SaaS app to **Cloudflare DNS** with GitHub Actions deployments, added **Mailgun** for transactional email, and configured domains from **GoDaddy**.  
-  
