@@ -2,7 +2,9 @@
 
 Open source powers ERP systems, CRMs, dashboards, DevOps pipelines, CMS platforms, and SaaS frameworks. But generic builds rarely fit every business.  
 
-We transform **GitHub repositories and open-source applications** into tailored, production-ready solutions. You get the **flexibility of open source** with the **precision of custom development**.
+We transform **GitHub repositories and open-source applications** into tailored, production-ready solutions. You get the **flexibility of open source** with the **precision of custom development**.  
+
+We work across all major operating systems — **Ubuntu, Debian, CentOS, Fedora, Alpine, Arch, SUSE, Red Hat, Windows (including WSL), and macOS** — ensuring your customized open-source project runs reliably on your target environment. We also support **cloud platforms** like AWS, GCP, Azure, DigitalOcean, and containerized deployments with Docker and Kubernetes.  
 
 📩 **Quick Contact:** [Telegram](https://t.me/goodthebest) · [Email](mailto:onlinebuybiz@gmail.com) · Discord: `goodthebest`  
 
@@ -59,7 +61,20 @@ Collaboration matters. Whether you’re **just exploring** or **mid-project**, t
 - **Performance Boosts** → optimized queries, faster pipelines, leaner builds.  
 - **Security Hardening** → patch vulnerabilities, license compliance, audit trails.  
 - **Modernization** → migrate PHP 7 → PHP 8, Python 2 → Python 3, etc.  
-- **Deployments** → GitHub Actions, Jenkins, Docker, Kubernetes, cloud CI/CD.  
+- **Deployments** → GitHub Actions, Jenkins, Docker, Kubernetes, cloud-native CI/CD.  
+
+---
+
+## 🖥️ Supported Operating Systems & Cloud Platforms  
+
+Our customization services cover diverse environments, so your open source project can run wherever you need it:  
+
+- **Linux distributions** → Ubuntu, Debian, CentOS, Fedora, Arch, Alpine, SUSE, Red Hat.  
+- **Windows** → Native Windows servers and Windows Subsystem for Linux (WSL).  
+- **macOS** → Development & deployment environments for Apple ecosystems.  
+- **Containers & Cloud** → Docker, Kubernetes, AWS, GCP, Azure, DigitalOcean.  
+
+👉 Example: Configured GitLab CI runners on **Ubuntu** for backend builds, **CentOS** for database services, and **Windows WSL** for front-end workflows, all deploying to **AWS** and **GCP** clusters.  
 
 ---
 
@@ -102,21 +117,84 @@ Collaboration matters. Whether you’re **just exploring** or **mid-project**, t
 
 ---
 
-## ❓ FAQs  
+## ❓ Frequently Asked Questions  
 
-**Do you work with private GitHub repos?**  
-Yes — GitHub, GitLab, Bitbucket, or custom archives.  
+### 🟢 General Services  
 
-**Can you add new features from scratch?**  
-Absolutely — modules, APIs, integrations, or dashboards.  
+**Do you work with private GitHub repositories?**  
+Yes. We handle **private repos** on GitHub, GitLab, Bitbucket, or directly shared archives. NDAs can be signed if required, and we maintain strict confidentiality of your code.  
+
+**Can you add completely new features to an open-source project?**  
+Absolutely. From **API integrations, new modules, or dashboards** to advanced workflows, billing systems, and CI/CD automation, we extend projects far beyond their defaults.  
+
+**Do you offer one-time help or only long-term contracts?**  
+Both. We can do **one-time customizations** or provide **ongoing support** for continuous improvements and maintenance.  
+
+---  
+
+### 🟣 GitHub & Open Source  
+
+**Do you contribute changes back to GitHub projects?**  
+Where beneficial, yes. We create **pull requests and patches** so your forked project stays close to upstream. This minimizes merge conflicts and ensures long-term maintainability.  
+
+**What if the open-source license is restrictive (e.g., GPL)?**  
+We guide you through **license compliance**, attribution, and safe usage practices. Whether MIT, Apache 2.0, GPL, or custom licenses, we ensure your solution remains legally sound.  
+
+**Can you optimize GitHub workflows for my team?**  
+Yes — we configure **branch protections, PR reviews, GitHub Actions**, and release pipelines to fit your development culture (agile, DevOps, or enterprise).  
+
+**Can you build GitHub Actions or GitLab CI pipelines from scratch?**  
+Definitely. We automate **testing, builds, deployments, and notifications**. Example: CI pipelines that build Docker images on Ubuntu, run tests on macOS, and deploy to AWS or GCP.  
+
+---  
+
+### 🔵 Technical Scope  
+
+**What operating systems do you support?**  
+We cover all major environments:  
+- **Linux** → Ubuntu, Debian, CentOS, Fedora, Arch, Alpine, SUSE, Red Hat  
+- **Windows** → Native servers & WSL  
+- **macOS** → Apple development & deployment  
+- **Containers** → Docker, Kubernetes, Podman  
+- **Clouds** → AWS, GCP, Azure, DigitalOcean  
+
+**Can you modernize outdated projects?**  
+Yes. We migrate legacy stacks (e.g., PHP 7 → 8, Python 2 → 3, old Node.js → LTS) and containerize older apps to run in modern infrastructures.  
+
+**Do you support database migrations?**  
+Yes. We migrate and optimize **MySQL, MariaDB, PostgreSQL, MongoDB, Redis**, and integrate them into new architectures or cloud platforms.  
+
+**Do you customize DevOps tools?**  
+Yes. Jenkins pipelines, GitLab CI/CD, GitHub Actions, Ansible playbooks, Terraform scripts — all can be adapted for your workflows.  
+
+**Do you support cross-platform builds?**  
+Yes. We configure build pipelines for projects that must run on **Linux, Windows, and macOS simultaneously**, often via containers or matrix builds.  
+
+---  
+
+### 🟠 Business & Support  
 
 **Do you provide long-term maintenance?**  
-Yes — bug fixes, scaling, upgrades, and security patches.  
+Yes — from **bug fixes and patching** to **scaling, monitoring, and upgrades**. We can act as your extended open-source support team.  
 
-**Only blockchain or ERP projects?**  
-Not at all. We cover **web, SaaS, DevOps, AI/ML, IoT, fintech, and beyond**.  
+**Can you white-label open-source applications?**  
+Yes. We customize UIs, themes, and branding so dashboards, CRMs, or CMS tools reflect your corporate identity.  
 
----
+**What if my project is highly niche or obscure?**  
+That’s fine — we thrive on **niche OSS projects**. Even if documentation is minimal, we reverse-engineer and adapt the code.  
+
+**Do you help with security audits?**  
+Yes. We perform **code audits, dependency scans, and CI/CD security checks** to ensure vulnerabilities are patched.  
+
+**Can you scale my project for production?**  
+Yes. We design **cloud-native architectures**, optimize performance, and enable **auto-scaling on AWS, GCP, or Azure**.  
+
+**Do you provide training for in-house teams?**  
+Yes. We can deliver **documentation, training sessions, or recorded walkthroughs** to help your team maintain and extend the customized project.  
+
+**What if I only need advice before investing in customization?**  
+We offer **consulting sessions** to review repos, advise on feasibility, suggest OSS alternatives, and outline migration strategies.  
+
 
 ## 🚀 Get Started  
 
