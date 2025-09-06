@@ -31,6 +31,9 @@ We work across all major operating systems — **Ubuntu, Debian, CentOS, Fedora,
   - [Content Management (WordPress, Strapi, Drupal)](#content-management-wordpress-strapi-drupal)
   - [SaaS Frameworks & Boilerplates (Laravel Wave, Jumpstart Pro)](#saas-frameworks-boilerplates-laravel-wave-jumpstart-pro)
 - [🌐 Example Engagements](#example-engagements)
+  - [Hosting Panels & Server Management (cPanel, WHM, Plesk, DirectAdmin)](#hosting-panels-server-management-cpanel-whm-plesk-directadmin)
+  - [Databases (MySQL, MariaDB, PostgreSQL, MongoDB, Redis)](#databases-mysql-mariadb-postgresql-mongodb-redis)
+  - [DNS, Email & Domain Management (GoDaddy, Namecheap, Bluehost, Cloudflare)](#dns-email-domain-management-godaddy-namecheap-bluehost-cloudflare)
 - [❓ Frequently Asked Questions](#frequently-asked-questions)
   - [🟢 General Services](#general-services)
   - [🟣 GitHub & Open Source Customization](#github-open-source-customization)
@@ -38,9 +41,6 @@ We work across all major operating systems — **Ubuntu, Debian, CentOS, Fedora,
   - [🛡️ Security & Compliance](#security-compliance)
   - [🟠 Business & Ongoing Support](#business-ongoing-support)
 - [🚀 Get Started](#get-started)
-  - [Hosting Panels & Server Management (cPanel, WHM, Plesk, DirectAdmin)](#hosting-panels-server-management-cpanel-whm-plesk-directadmin)
-  - [Databases (MySQL, MariaDB, PostgreSQL, MongoDB, Redis)](#databases-mysql-mariadb-postgresql-mongodb-redis)
-  - [DNS, Email & Domain Management (GoDaddy, Namecheap, Bluehost, Cloudflare)](#dns-email-domain-management-godaddy-namecheap-bluehost-cloudflare)
 
 ---
 <a id="technology-matrix-quick-overview"></a>
