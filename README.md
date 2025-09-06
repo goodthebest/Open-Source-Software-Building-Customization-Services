@@ -95,8 +95,9 @@ Our customization services cover diverse environments, so your open source proje
 - **DNS & Domains** → Configure A, MX, TXT, SPF, DKIM, DMARC for security and reliability.  
 - **Email Systems** → Postfix, Exim, Sendmail, plus third-party APIs (SendGrid, Mailgun).  
 - **Domain Registrars & Hosting Providers** → GoDaddy, Namecheap, Bluehost, HostGator, SiteGround, Cloudflare.  
+- **SSL & Certificates** → Automated HTTPS provisioning with **Let’s Encrypt**, Certbot, or cPanel AutoSSL.  
 
-👉 Example: Configured GitLab CI runners on **Ubuntu** for backend builds, **CentOS** for database services, and **Windows WSL** for front-end workflows, all deploying to **AWS** and **GCP** clusters with **cPanel hosting and Cloudflare DNS integration**.  
+👉 Example: Configured GitLab CI runners on **Ubuntu** for backend builds, **CentOS** for database services, and **Windows WSL** for front-end workflows, all deploying to **AWS** and **GCP** clusters with **cPanel hosting, Cloudflare DNS, and Let’s Encrypt SSL integration**.  
 
 ## 🛠️ High-Demand Platforms We Customize  
 
@@ -192,6 +193,9 @@ Yes. We configure build pipelines for projects that must run on **Linux, Windows
 
 ---  
 
+**Do you provide SSL setup with Let’s Encrypt?**  
+Yes. We configure **Let’s Encrypt SSL certificates** (via Certbot or cPanel AutoSSL) for GitHub-hosted apps, CMS platforms, SaaS frameworks, and APIs. This ensures your project is secure, automated, and compliant with modern HTTPS standards.  
+
 ### 🟠 Business & Support  
 
 **Do you support DNS and domain management?**  
@@ -199,6 +203,9 @@ Yes. We configure and manage DNS records (A, MX, TXT, SPF, DKIM, DMARC) for reli
 
 **Can you integrate with popular providers like GoDaddy or Namecheap?**  
 Absolutely. We handle DNS, domains, SSL, and hosting on platforms like **GoDaddy, Namecheap, Bluehost, HostGator, SiteGround, and Cloudflare**.  
+
+**Do you provide SSL setup with Let’s Encrypt?**  
+Yes. We configure **Let’s Encrypt SSL certificates** (via Certbot or cPanel AutoSSL) for GitHub-hosted apps, CMS platforms, SaaS frameworks, and APIs. This ensures your project is secure, automated, and compliant with modern HTTPS standards.  
 
 ### 🟠 Business & Support  
 
@@ -208,6 +215,9 @@ Yes. We configure and customize **cPanel, WHM, Plesk, and DirectAdmin** to deplo
 **Do you handle database migrations and optimization?**  
 Yes. We support **MySQL, MariaDB, PostgreSQL, MongoDB, and Redis**. Our services include schema migrations, replication setups, and query optimization for high performance.  
 
+**Do you provide SSL setup with Let’s Encrypt?**  
+Yes. We configure **Let’s Encrypt SSL certificates** (via Certbot or cPanel AutoSSL) for GitHub-hosted apps, CMS platforms, SaaS frameworks, and APIs. This ensures your project is secure, automated, and compliant with modern HTTPS standards.  
+
 ### 🟠 Business & Support  
 
 **Do you support DNS and domain management?**  
@@ -215,6 +225,9 @@ Yes. We configure and manage DNS records (A, MX, TXT, SPF, DKIM, DMARC) for reli
 
 **Can you integrate with popular providers like GoDaddy or Namecheap?**  
 Absolutely. We handle DNS, domains, SSL, and hosting on platforms like **GoDaddy, Namecheap, Bluehost, HostGator, SiteGround, and Cloudflare**.  
+
+**Do you provide SSL setup with Let’s Encrypt?**  
+Yes. We configure **Let’s Encrypt SSL certificates** (via Certbot or cPanel AutoSSL) for GitHub-hosted apps, CMS platforms, SaaS frameworks, and APIs. This ensures your project is secure, automated, and compliant with modern HTTPS standards.  
 
 ### 🟠 Business & Support  
 
@@ -276,7 +289,7 @@ Bring your GitHub repo or OSS project — we’ll deliver a **customized, produc
 - Configure DNS records for reliable websites and apps.  
 - Set up secure email delivery with SPF, DKIM, and DMARC.  
 - Integrate GitHub deployments with domain/DNS management (e.g., GitHub Pages + custom domain).  
-- Automate SSL via Let’s Encrypt or cPanel.  
+- Automate SSL via **Let’s Encrypt**, Certbot, or cPanel AutoSSL. via Let’s Encrypt or cPanel.  
 
 👉 Example: Migrated a SaaS app to **Cloudflare DNS** with GitHub Actions deployments, added **Mailgun** for transactional email, and configured domains from **GoDaddy**.  
   
